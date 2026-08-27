@@ -1,0 +1,13 @@
+Robotic Arm Simulation Started
+Base     =  90 degrees
+Shoulder =  90 degrees
+Elbow    =  90 degrees
+Gripper  =  90 degrees
+
+Arm moved to new position
+Base     =  45 degrees
+Shoulder = 120 degrees
+Elbow    =  60 degrees
+Gripper  =  30 degrees
+
+Simulation completed.
